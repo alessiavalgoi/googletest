@@ -1,6 +1,7 @@
 // Copyright 2005, Google Inc.
 // All rights reserved.
 //
+// Commento di prova
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted provided that the following conditions are
 // met:
