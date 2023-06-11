@@ -128,12 +128,12 @@ TEST(IsPrimeTest, Trivial) {
 }
 
 // Tests positive input.
-//TEST(IsPrimeTest, Positive) {
-//  EXPECT_FALSE(IsPrime(4));
-//  EXPECT_TRUE(IsPrime(5));
-//  EXPECT_FALSE(IsPrime(6));
-//  EXPECT_TRUE(IsPrime(23));
-//}
+TEST(IsPrimeTest, Positive) {
+  EXPECT_FALSE(IsPrime(4));
+  EXPECT_TRUE(IsPrime(5));
+  EXPECT_FALSE(IsPrime(6));
+  EXPECT_TRUE(IsPrime(23));
+}
 }  // namespace
 
 
